@@ -51,7 +51,7 @@ You'll paste this into the app in the next step.
 
 ## Running the app
 
-**On Mac:** Double-click **Launch App.command**
+**On Mac:** Double-click **Transcriber.command**
 
 > If you see a security warning, go to System Settings → Privacy & Security → scroll down and click **Open Anyway**
 

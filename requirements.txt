@@ -1,0 +1,9 @@
+openai-whisper
+pyannote.audio
+torch
+torchaudio
+av
+librosa
+audioop-lts
+gradio
+numpy
